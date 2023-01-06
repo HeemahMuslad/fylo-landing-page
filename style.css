@@ -5,9 +5,12 @@
   font-family: "Open Sans", sans-serif;
 }
 body {
-  margin: 50px;
+  
   background-image: url(./images/bg-curve-desktop.svg);
   background-size: cover;
+}
+.container{
+margin: 50px;
 }
 
 nav {
